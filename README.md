@@ -1,5 +1,5 @@
 # 💫 About Me:
-2nd Year Computer Engineering Student | Tech Enthusiast | Life-long Learner. I’m currently on a journey to explore the vast world of computing, from low-level systems to modern web apps. I love meeting new people in the dev community and sharing knowledge. If you're working on something interesting or just want to talk about the future of tech, my inbox is always open!
+3rd Year Computer Engineering Student | I’m currently on a journey to explore the vast world of computing, from low-level systems to modern web apps.
 
 
 ## 🌐 Socials:
